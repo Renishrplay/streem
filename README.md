@@ -1,6 +1,10 @@
 # Telegram File To Link Generation Bot
 A Telegram bot that can stream Telegram files to users over HTTP.
 
+ <img src="https://telegra.ph/file/c3d25aa057a3aa2282d50.png" style="max-width:100%;">
+
+
+
 ## Installation
 Install dependencies (see [requirements.txt](/requirements.txt)), configure
 environment variables (see below) and run with `python3 -m tgfilestream`.
